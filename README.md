@@ -5,3 +5,5 @@ Twist publisher with unity controller
 |:--:|:--:|
 |linear_y|joy_left_y|
 |angular_z|joy_right_x|
+
+used PS4 controller
